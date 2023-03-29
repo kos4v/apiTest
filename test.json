@@ -1,0 +1,14 @@
+{
+  "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "00-a129b05f07f011c60f7034bf8cf4b3f1-a4d895ba692eb046-00",
+  "errors": {
+    "$": [
+      "\'U\' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0."
+    ],
+    "query": [
+      "The query field is required."
+    ]
+  }
+}
